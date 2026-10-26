@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+PyJWT
+openai
+python-dotenv
+pydantic[email]
